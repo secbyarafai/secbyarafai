@@ -17,7 +17,7 @@
 
 ## 🧪 Home Lab (current)
 Kali Linux • Parrot OS • Ubuntu Server • Windows Desktop • Windows Server • Metasploitable  
-SOC stack experiments (e.g., Wazuh/ELK), Wireshark, Nmap, Metasploit
+SOC stack experiments Wazuh & splunk, Wireshark, Nmap, Metasploit
 
 ---
 
@@ -34,9 +34,9 @@ Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics • Git
 
 ---
 
-## 🏅 Certifications (selected)
-- Security+
-- CYSA+
+## 🏅 Certifications
+- Security+ (in progress)
+- CYSA+ (in progress)
 
 ---
 
