@@ -23,7 +23,7 @@ SOC stack experiments Wazuh & splunk, Wireshark, Nmap, Metasploit
 
 ## 🛠️ Skills & Tools (growing)
 Networking (TCP/IP, subnets) • Linux & Windows Admin • Bash/Powershell • Python  
-Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics • Git/GitHub
+Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics 
 
 ---
 
