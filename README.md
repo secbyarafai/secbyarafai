@@ -2,7 +2,7 @@
 **Cybersecurity Enthusiast • Red & Blue Team Learner • Building Real-World Skills**
 
 - 🇬🇧 Based in the UK (open to cybersecurity apprenticeships)
-- 🔭 Current focus: SOC home lab, Windows/Linux hardening, network monitoring
+- 🔭 Current focus: SOC home lab, network monitoring
 - 🛡️ Interests: Blue Team (SIEM, logging, detection), Red Team (recon, exploitation labs)
 - 🧭 Pronouns: he/him
 
@@ -30,7 +30,6 @@ Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics
 ## 📌 Highlighted Projects
 - **Cybersecurity-Portfolio** — write-ups, case studies, and lab notes.  
 - **Certificates** — verified certs with short summaries of what I learned.  
-- **(Coming Soon) Lab-Automation-Scripts** — small tools for parsing logs, scanning, etc.
 
 ---
 
