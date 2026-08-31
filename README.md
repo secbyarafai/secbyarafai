@@ -10,7 +10,7 @@
 
 ## 🔗 Quick Links
 - ✍️ **Blog:** https://secbyarafai.blogspot.com/  https://medium.com/@secbyarafai
-- 💼 **LinkedIn:** https://www.linkedin.com/in/faith-akerele/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiflEA2ikRV6GSgGrt%2B24og%3D%3D
+- 💼 **LinkedIn:** https://www.linkedin.com/in/faith-akerele 
 - ✉️ **Contact:** faithakerele14@gmail.com
 
 ---
