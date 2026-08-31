@@ -28,8 +28,8 @@ Vulnerability Scanning • SIEM & Log Analysis • Threat Hunting Basics
 ---
 
 ## 📌 Highlighted Projects
-- **Cybersecurity-Portfolio** — projects, write-ups, case studies, and lab notes.  
-- **Certificates** — verified certs with short summaries of what I learned.  
+- **Cybersecurity-Portfolio** - projects, write-ups, case studies, and lab notes.  
+- **Certificates** - verified certs with short summaries of what I learned.  
 
 ---
 
